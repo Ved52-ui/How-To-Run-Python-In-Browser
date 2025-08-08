@@ -34,7 +34,7 @@
     st.color_picker("Pick a color")
 
 <h1>How To Make Title</h1><br>
-///////////
+//////////
     st.title("Login Page")
 <h2>To Write This Code Import Streamlit As st</h2><br>
 <h2>How To Make Input Box</h2><br>
