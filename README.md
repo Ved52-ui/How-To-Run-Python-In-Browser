@@ -2,7 +2,7 @@
 <h1>To Run Python In Browser We Use The Streamlit</h1><br>
 <h1>Command to install Streamlit</h1><br>
 
-    pip install streamlit---
+    pip install streamlit--
 <h1>How to Import streamlit </h1>
 
     import streamlit as st
