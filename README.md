@@ -31,7 +31,7 @@
     st.time_input("Meeting time")
     st.file_uploader("Upload a CSV")
     st.camera_input("Take a picture")
-    st.color_picker("Pick a color")----------------------------------
+    st.color_picker("Pick a color")---------------------------------
 
 <h1>How To Make Title</h1><br>
 
