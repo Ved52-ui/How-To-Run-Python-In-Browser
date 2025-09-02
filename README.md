@@ -1,4 +1,4 @@
-<h1>How We Can Run Python In Browser</h1><br>_------------
+<h1>How We Can Run Python In Browser</h1><br>_-----------
 <h1>To Run Python In Browser We Use The Streamlit</h1><br>
 <h1>Command to install Streamlit</h1><br>
 
