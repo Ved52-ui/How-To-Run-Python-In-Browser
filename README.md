@@ -47,4 +47,3 @@
     st.video(data)
     st.video(data, subtitles="./subs.vtt")
     st.logo("logo.jpg")
-_
