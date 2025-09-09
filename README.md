@@ -10,7 +10,7 @@
     
     streamlit run first_app.py
 <h2>Codes Of Streamlit</h2><br>
-------------
+-----------
     st.button("Click me")
     st.download_button("Download file", data)
     st.feedback("thumbs")
