@@ -1,7 +1,7 @@
 <h1>How We Can Run Python In Browser</h1><br>
 <h1>To Run Python In Browser We Use The Streamlit</h1><br>
 <h1>Command to install Streamlit</h1><br>
-jakana
+jakan
     pip install streamlit
 <h1>How to Import streamlit </h1>
 
