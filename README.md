@@ -4,7 +4,7 @@
 
     pip install streamlit
 <h1>How to Import streamlit </h1>
-ush
+us
     import streamlit as st
 <h2>Command To run file</h2><br>
     
