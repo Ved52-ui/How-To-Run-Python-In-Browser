@@ -7,7 +7,7 @@
 
     import streamlit as st
 <h2>Command To run file</h2><br>
-    sjdjdm
+    sjdjd
     streamlit run first_app.py
 <h2>Codes Of Streamlit</h2><br>
 
